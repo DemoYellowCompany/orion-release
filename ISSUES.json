@@ -1,0 +1,24 @@
+[
+  {
+    "number": 142,
+    "title": "Duplicate invoice after timeout retry",
+    "status": "OPEN",
+    "severity": "critical",
+    "owner": "Karim Haddad",
+    "note": "Reproduit une fois sur rc.3 le 16 septembre à 16:40; analyse en cours."
+  },
+  {
+    "number": 143,
+    "title": "Add idempotency key to invoice creation",
+    "status": "CLOSED",
+    "owner": "Karim Haddad",
+    "closed_by_pr": 388
+  },
+  {
+    "number": 147,
+    "title": "48h retry stability campaign",
+    "status": "OPEN",
+    "owner": "Maya Trabelsi",
+    "note": "Fenêtre redémarrée après l’échec rc.3."
+  }
+]
