@@ -20,5 +20,12 @@
     "status": "OPEN",
     "owner": "Maya Trabelsi",
     "note": "Fenêtre redémarrée après l’échec rc.3."
+  },
+    {
+    "number": 148,
+    "title": "48h retry stability campaign",
+    "status": "OPEN",
+    "owner": "Maya Trabelsi",
+    "note": "Fenêtre redémarrée après l’échec rc.3."
   }
 ]
