@@ -11,3 +11,5 @@ Version: v2.4.0-rc.3
 La fusion du code ne remplace pas la validation QA de 48 h décrite dans le runbook.
 
 change test-reb branch
+
+add logout button
